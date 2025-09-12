@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nitesh 👋
 
-<!--
-**Nitesh0434/Nitesh0434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer learning **MERN stack** and practicing **DSA problems** on LeetCode / NeetCode.  
 
-Here are some ideas to get you started:
+## 🔗 Projects & Work
+- [DSA Practice](https://github.com/Nitesh0434/DSA-practice) – my coding exercises
+- [My Website / Blog](https://niteshkamat.com.np) – personal portfolio & small tutorials
+- MERN stack projects – coming soon!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages:** HTML, CSS, JavaScript, Node.js
+- **Frameworks:** React, Express, MongoDB
+- **Problem Solving:** LeetCode, NeetCode, DSA
+
+## 📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/nitesh-kamat-0aab83375) – professional profile
+- [Email](mailto:nitesh0434@gmail.com) – feel free to reach out
+
+
