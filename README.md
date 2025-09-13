@@ -33,13 +33,13 @@ Feel free to connect with me through the following platforms:
 
 ## 📈 GitHub Stats
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh0434&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh0434&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 🧠 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh0434&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh0434&theme=radical&cache_seconds=1800)
 
 ---
 
