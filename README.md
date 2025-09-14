@@ -16,7 +16,7 @@ I'm a passionate developer diving into the **MERN stack** and sharpening my prob
 
 - **Languages:** HTML, CSS, JavaScript, Node.js  
 - **Frameworks & Libraries:** React, Express, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+- **Tools & Platforms:** Git, GitHub, Neovim, Postman  
 - **Problem Solving:** LeetCode, NeetCode, DSA
 
 ---
