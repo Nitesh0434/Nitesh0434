@@ -6,7 +6,7 @@ I'm a passionate developer diving into the **MERN stack** and sharpening my prob
 
 ## 🔗 Projects & Work
 
-- **[DSA Practice](https://github.com/Nitesh0434/DSA-practice)** – Collection of coding exercises and solutions.
+- **[DSA Practice](https://github.com/Niteshkamat11/DSA-practice)** – Collection of coding exercises and solutions.
 - **[My Website / Blog](https://niteshkamat.com.np)** – Personal portfolio featuring tutorials and project showcases.
 - **MERN Stack Projects** – Coming soon! Full-stack apps with MongoDB, Express, React, and Node.js.
 
@@ -31,19 +31,19 @@ I'm a passionate developer diving into the **MERN stack** and sharpening my prob
 
 ## 📈 GitHub Stats
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh0434&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niteshkamat11&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 🧠 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh0434&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niteshkamat11&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 🥇 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0434&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshkamat11&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
